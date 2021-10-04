@@ -42,7 +42,6 @@ TODO
     - Sinric https://sinric.pro/
     - Azure IoT https://docs.microsoft.com/en-us/azure/iot-fundamentals/
     - Azure IoT Central https://apps.azureiotcentral.com/ ; https://docs.microsoft.com/en-us/azure/iot-central/
-    - Azure IoT accellerator 
 5. Lettura ingressi digitali
     - Stato interruttore (switch)
     - Sensore presenza PIR (PIR sensor)
