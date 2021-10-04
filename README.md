@@ -32,7 +32,34 @@ TODO
 
 [Installation of Visual Micro for Arduino](https://www.visualmicro.com/page/User-Guide.aspx?doc=Getting-started.html)
 
+## Proramma
 
+1. IoT, Industrial IoT, Factory 4.0
+2. Architettura di riferimento soluzioni IoT
+3. Casi di studio
+    - Self powerd IoT sensors https://www.enocean.com/en/applications/internet-of-things/ 
+    - Blynk https://blynk.io/
+    - Sinric https://sinric.pro/
+    - Azure IoT https://docs.microsoft.com/en-us/azure/iot-fundamentals/
+    - Azure IoT Central https://apps.azureiotcentral.com/ ; https://docs.microsoft.com/en-us/azure/iot-central/
+    - Azure IoT accellerator 
+5. Lettura ingressi digitali
+    - Stato interruttore (switch)
+    - Sensore presenza PIR (PIR sensor)
+    - Stato pulsante (button)
+6. Interfacciamento sensori digitali con protocollo di comunicazione specifico
+    - sensore umidità e temperatura DHT11
+    - Misuratore di distanza ad ultrasuoni HC-SR04
+7. Lettura ingressi analogici
+    - Sensore intensità luminosa LDR
+    - Sensore temperatura LM35
+8. Controllo di uscite digitali
+    - Accendere un led (blink)
+9. Connettività
+    - connessione ad una rete Wifi
+    - Connessione ad Internet e client HTTP/HTTPS
+    - Server HTTP
+    - Connessione ad infrastruttura cloud    
 
 
 
