@@ -60,5 +60,8 @@ TODO
     - Server HTTP
     - Connessione ad infrastruttura cloud    
 
+## Eserictazioni
+
+Materiale laboratorio: [kit laboratorio](lab-kit.md)
 
 
