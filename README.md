@@ -32,6 +32,10 @@ TODO
 
 [Installation of Visual Micro for Arduino](https://www.visualmicro.com/page/User-Guide.aspx?doc=Getting-started.html)
 
+## Arduino Core
+
+[Welcome to ESP8266 Arduino Core’s documentation! — ESP8266 Arduino Core 3.0.2 documentation (arduino-esp8266.readthedocs.io)](https://arduino-esp8266.readthedocs.io/en/3.0.2/index.html)
+
 ## Proramma
 
 1. IoT, Industrial IoT, Factory 4.0
@@ -42,16 +46,23 @@ TODO
     - Sinric https://sinric.pro/
     - Azure IoT https://docs.microsoft.com/en-us/azure/iot-fundamentals/
     - Azure IoT Central https://apps.azureiotcentral.com/ ; https://docs.microsoft.com/en-us/azure/iot-central/
+4. Kit di sviluppo per applicazioni IoT
+    - [BreadBoard](bread-board.md)
+    - DevBoard NodeMCU ESP8266
+    - Sensori
+    - Cavi connessione
+    - Cavo programmazione/debug
+    - Alimentazione
 5. Lettura ingressi digitali
-    - Stato interruttore (switch)
+    - ~~Stato interruttore (switch)~~
     - Sensore presenza PIR (PIR sensor)
-    - Stato pulsante (button)
+    - ~~Stato pulsante (button)~~
 6. Interfacciamento sensori digitali con protocollo di comunicazione specifico
     - sensore umidità e temperatura DHT11
     - Misuratore di distanza ad ultrasuoni HC-SR04
 7. Lettura ingressi analogici
-    - Sensore intensità luminosa LDR
-    - Sensore temperatura LM35
+    - ~~Sensore intensità luminosa LDR~~
+    - ~~Sensore temperatura LM35~~
 8. Controllo di uscite digitali
     - Accendere un led (blink)
 9. Connettività
@@ -63,5 +74,4 @@ TODO
 ## Eserictazioni
 
 Materiale laboratorio: [kit laboratorio](lab-kit.md)
-
 
