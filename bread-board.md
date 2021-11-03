@@ -29,3 +29,14 @@ Lo spazio al centro (se presente) è progettato per ospitare componenti elettron
 Esempi di circuito realizzato su breadboard:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Breadboard_counter.jpg/1820px-Breadboard_counter.jpg)
+
+## Progetti di Bread Board
+
+Uno strumento utile per progettare e documentare i prototipi realizzati su breadboard è [Fritzing](http://fritzing.org/home/)
+
+Si tratta di uno strumento di progettazione CAD per circuiti elettronici specializzato per i progetti realizzati su breadboard.
+
+![](http://www.vitobarone.it/elettrotecnica/breadboard/fritzing.gif)
+
+![](https://fritzing.org/assets/uploads/learning/building_circuit/building_circuit_5_jpg_versions/big_building_circuit_5-f997dc8ecb28eac8d6c7468b531526eaab6b42e6be88eac100d0630da2817bae.jpg)
+
