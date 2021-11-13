@@ -5,7 +5,7 @@
 ## Prerequisiti
 
 - Concetti di base di fisica ed elettronica a livello scolastico (corrente elettrica, tensione, batterie, conduttori, isolanti, ...) non sono necessarie competenze tecniche specialistiche di elettronica ed elettrotecnica per seguire questo corso.
-  - Competenze di elettronica sono invece necessarie per la piena comprensione del funzionamento dei circuiti elettronici realizzati e per realizzare progetti avanzati.  Vedi sezione libri di elettronica
+  - Competenze di elettronica sono invece necessarie per la piena comprensione del funzionamento dei circuiti elettronici realizzati e per realizzare progetti avanzati.  Vedi sezione [libri di elettronica](books.md) 
 - Concetti di base di informatica e  programmazione (variabili, funzioni, operatori logici, cicli), compilazione ed esecuzione di un programma. 
 
 ## Programma
@@ -31,8 +31,12 @@
        - Visual StudioCode + Platformio (consigliato per sviluppatori esperti)
        - Visual Studio + Visual Micro (consigliato per sviluppatori Visual C/C++ )
        - ... 
-5. Setup Ambiente di sviluppo
-6. Programmare ESP8266
+5. Setup Ambiente di sviluppo [setup.md](setup.md) 
+6. Alimentare ESP8266 [power-esp8266.md](power-esp8266.md) 
+6. Connettere ESP8266 [connecting-esp8266.md](connecting-esp8266.md) 
+6. Programmare ESP8266 [programming-esp8266.md](programming-esp8266.md) 
+6. NodeMCU [nodemcu.md](nodemcu.md) 
+6. ESP8266 Arduino Core [esp8266-arduinocore.md](esp8266-arduinocore.md) 
 7. Piattaforme di sviluppo IoT
    - Blynk https://blynk.io/
    - Sinric https://sinric.pro/
