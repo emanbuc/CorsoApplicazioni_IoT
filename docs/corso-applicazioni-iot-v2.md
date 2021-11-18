@@ -18,8 +18,8 @@
    - Hardware
      - [Materiale per allestire il laboratorio](lab-bill-of-materials.md)
      - Panoramica su hardware utilizzato
-       - ESP8266
-       - Cavo programmazione/debug
+       - [ESP8266](esp8266.md)
+       - [Cavo programmazione/debug](usb-cable.md)
        - Alimentazione
        - [BreadBoard](bread-board.md)
        - Sensori
