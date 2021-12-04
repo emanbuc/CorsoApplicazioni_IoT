@@ -40,6 +40,8 @@
 7. Piattaforme di sviluppo IoT
    - Blynk [https://blynk.io/](https://blynk.io/)
    - Sinric [https://sinric.pro/](https://sinric.pro/)
+   - Arduino Cloud IoT [https://docs.arduino.cc/cloud/iot-cloud](https://docs.arduino.cc/cloud/iot-cloud)
+     - https://docs.arduino.cc/cloud/iot-cloud/tutorials/esp-32-cloud 
    - Azure IoT Hub - IoT Central
      - [https://apps.azureiotcentral.com/](https://apps.azureiotcentral.com/)
      - [https://docs.microsoft.com/en-us/azure/iot-central/](https://docs.microsoft.com/en-us/azure/iot-central/)
