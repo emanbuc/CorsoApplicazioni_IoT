@@ -14,7 +14,7 @@ In queste pagine trovate altro materiale e riferimenti a risorse esterne utili p
 
 ## corso
 
-Sito web con materiale dle corso [Applicazioni IoT](https://emanbuc.github.io/CorsoApplicazioni_IoT/)
+Sito web con materiale del corso [Applicazioni IoT](https://emanbuc.github.io/CorsoApplicazioni_IoT/)
 
 ## Come Contribuire
 
