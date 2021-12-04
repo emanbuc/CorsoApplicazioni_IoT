@@ -12,13 +12,11 @@ In queste pagine trovate altro materiale e riferimenti a risorse esterne utili p
 
 [Configurazione ambiente di sviluppo](docs/setup.md)
 
-## Programma del corso
+## corso
 
-[Seconda edizione - dicembre 2021](docs/corso-applicazioni-iot-v2.md)
+Sito web con materiale dle corso [Applicazioni IoT](https://emanbuc.github.io/CorsoApplicazioni_IoT/)
 
-Prima edizione - settembre 2021
-
-# Come Contribuire
+## Come Contribuire
 
 Ogni contributo è apprezzato! Se vuoi contribuire a migliorare il contenuto di questo repository madami una *pull request* oppure contattami
 
