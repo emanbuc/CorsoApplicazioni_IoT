@@ -38,18 +38,20 @@
 6. NodeMCU [nodemcu.md](nodemcu.md) 
 6. ESP8266 Arduino Core [esp8266-arduinocore.md](esp8266-arduinocore.md) 
 7. Piattaforme di sviluppo IoT
-   - Blynk https://blynk.io/
-   - Sinric https://sinric.pro/
-   - Azure IoT https://docs.microsoft.com/en-us/azure/iot-fundamentals/
-   - Azure IoT Central https://apps.azureiotcentral.com/ ; https://docs.microsoft.com/en-us/azure/iot-central/
-8. Lettura ingressi digitali
+   - Blynk [https://blynk.io/](https://blynk.io/)
+   - Sinric [https://sinric.pro/](https://sinric.pro/)
+   - Azure IoT Hub - IoT Central
+     - [https://apps.azureiotcentral.com/](https://apps.azureiotcentral.com/)
+     - [https://docs.microsoft.com/en-us/azure/iot-central/](https://docs.microsoft.com/en-us/azure/iot-central/)
+     - [https://docs.microsoft.com/en-us/azure/iot-fundamentals/](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
+1. Lettura ingressi digitali
    - Stato interruttore (switch)
    - Stato pulsante (button)
    - Sensore presenza PIR (PIR sensor)
-9. Interfacciamento sensori digitali con protocollo di comunicazione specifico
+2. Interfacciamento sensori digitali con protocollo di comunicazione specifico
    - sensore umidità e temperatura DHT11
    - Misuratore di distanza ad ultrasuoni HC-SR04
-10. Lettura ingressi analogici
+3.  Lettura ingressi analogici
    - Sensore intensità luminosa LDR
    - Sensore temperatura LM35
 11. Controllo di uscite digitali
