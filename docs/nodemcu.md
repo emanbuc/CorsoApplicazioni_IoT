@@ -12,15 +12,15 @@ Le schede sono inoltre dotare di pin esterni pensati per la connessione con *bre
 
  
 
-![NodeMCU ESP8266 Board](../media/clip_image002-16368006036535.jpg)
+![NodeMCU ESP8266 Board](media/clip_image002-16368006036535.jpg)
 
 Figure 6. NodeMCU Board componets.
 
-![img](../media/clip_image004-16368006036546.jpg)
+![img](media/clip_image004-16368006036546.jpg)
 
 Figure 7. NodeMCU board Pinout
 
-![img](../media/clip_image005.png)
+![img](media/clip_image005.png)
 
 ### Cloni NodeMCU DevKit
 
@@ -30,7 +30,7 @@ Il progetto hardware delle schede DevKit NodeMCU è open source e diversi produt
 
  
 
-![NodeMCU ESP8266 Development Board](../media/clip_image007-16368006036547.jpg)
+![NodeMCU ESP8266 Development Board](media/clip_image007-16368006036547.jpg)
 
 Figure 8. Esempio di clone NodeMCU DevKit commercializzato come Lolin V3
 
