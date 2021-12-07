@@ -29,18 +29,15 @@ Le opzioni disponibili sono diverse: sia gratuite che commerciali.
    - File -> "Impostazioni"
    - Inserire https://arduino.esp8266.com/stable/package_esp8266com_index.json![image-20211207091539503](media/url-board-aggiuntive.png)
 3. Installare ESP8266 Community in Gestore Schede
+   - Aprire  "Gestore Schede" in Strumenti=> Scheda => Gestore scheda![arduinoIDE-gestore-schede](media/arduinoIDE-gestore-schede.png)
+   - Cercare ESP8266 ed installare "esp8266" realizzate da "ESP8266 Community"![gestore-schede-esp8266](../media/gestore-schede-esp8266.png)
+     - **ATTENZIONE: le versioni a partire dalla 3.0 hanno introdotto delle incompatibilità con diverse librerie che bloccano il funzionamento di molti progetti esistenti. Ad esempio gli esempi nella documentazione di Azure IoT Hub e IoT Central non compilano o non funzionano**. In caso di problemi eseguire il downgrade ad un versione precedente (es. 2.5 o 2.7)
 
 ### Visual Studio Code e Platformio
-
-TODO 
 
 https://www.electronicshub.org/programming-esp8266-using-vs-code-and-platformio/
 
 ### Visual Micro
-
-TODO
-
-[Installation of Visual Micro for Arduino] 
 
 https://www.visualmicro.com/page/User-Guide.aspx?doc=Getting-started.html)
 

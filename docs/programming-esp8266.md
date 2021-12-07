@@ -2,7 +2,7 @@
 
 ### Metodo 1: usare un programmatore
 
-![img](../media/clip_image002-16368003617642.jpg)
+![img](media/clip_image002-16368003617642.jpg)
 
 Si tratta di un dispositivo hardware dedicato in cui inserire il modulo per la programmazione. Il modulo viene poi tolto e spostato nel prodotto finale.
 
