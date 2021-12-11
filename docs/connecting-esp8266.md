@@ -14,7 +14,7 @@ I moduli ESP8266 sono dotati di numerose connessioni che possono essere utilizza
 
 La caratteristica peculiare di ESP8266 è la presenza del WiFi integrato all’interno del microcontrollore!
 
-![ESP8266 12e Pinout 6](../media/clip_image002-16368004538364.jpg)
+![ESP8266 12e Pinout 6](media/clip_image002-16368004538364.jpg)
 
 # ESP8266 PINS
 
@@ -40,7 +40,7 @@ Where the analog input pins are designed to read analog sensors (input), the PWM
 
 Since a digital output can be either on or off, to obtain the analog output the digital output is switch between HIGH and LOW rapidly. The percentage of the time that the signal is high is called the **duty cycle**. The following diagram illustrates this concept:
 
-![img](../media/clip_image003.png)
+![img](media/clip_image003.png)
 
 We have the ability to set the frequency of how fast the signal can switch between HIGH and LOW. This frequency is measured in Hertz and sets how many times the signal can switch per second. For example, if we set the frequency to 500 Hz, that would mean that the signal could switch 500 times a second.
 
