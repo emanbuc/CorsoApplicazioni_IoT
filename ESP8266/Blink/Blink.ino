@@ -1,12 +1,13 @@
 /*
-  ESP8266 Blink by Simon Peter
-  Blink the blue LED on the ESP-01 module
-  This example code is in the public domain
+  Corso Applicazioni IoT
+  https://emanbuc.github.io/CorsoApplicazioni_IoT/
+  https://github.com/emanbuc/CorsoApplicazioni_IoT
+   
+  ESP8266 Blink 
 
-  The blue LED on the ESP-01 module is connected to GPIO1
-  (which is also the TXD pin; so we cannot use Serial.print() at the same time)
-
-  Note that this sketch uses LED_BUILTIN to find the pin with the internal LED
+  Blink builtin LED on NodeMCU 1.0 compatible development board.
+  Please note that the led in connected in "Sink mode" and the logic is inverted:
+  HIGH turns the LED off while LOW turns it on.
 */
 
 void setup() {
@@ -15,10 +16,9 @@ void setup() {
 
 // the loop function runs over and over again forever
 void loop() {
-  digitalWrite(LED_BUILTIN, LOW);   // Turn the LED on (Note that LOW is the voltage level
-  // but actually the LED is on; this is because
-  // it is active low on the ESP-01)
+  digitalWrite(LED_BUILTIN, LOW);   // Set the pin in HIGH state and turn the LED on 
   delay(1000);                      // Wait for a second
-  digitalWrite(LED_BUILTIN, HIGH);  // Turn the LED off by making the voltage HIGH
-  delay(2000);                      // Wait for two seconds (to demonstrate the active low LED)
+  digitalWrite(LED_BUILTIN, HIGH);  // Set the pin in LOW state and turn the LED off
+  delay(2000);                      // Wait for two second 
+  // end of loop code block and loop again
 }
