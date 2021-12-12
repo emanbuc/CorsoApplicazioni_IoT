@@ -16,6 +16,13 @@ In queste pagine trovate altro materiale e riferimenti a risorse esterne utili p
 
 Sito web con materiale del corso [Applicazioni IoT](https://emanbuc.github.io/CorsoApplicazioni_IoT/)
 
+## Contenuto del repository
+
+In questo repository sono presenti tre caertelle:
+
+- [docs](docs) contiene i sorgenti in MarkDown del sito web/e-book del corso pubblicato su [https://emanbuc.github.io/CorsoApplicazioni_IoT/](https://emanbuc.github.io/CorsoApplicazioni_IoT/) utilizzanto GitHub Pages
+- [ESP9266](ESP8266) il codice sorgente degli esempi e delle esercitazioni da eseguire sulle schede di sviluppo basate su microcontrollore ESP8266
+
 ## Come Contribuire
 
 Ogni contributo è apprezzato! Se vuoi contribuire a migliorare il contenuto di questo repository madami una *pull request* oppure contattami
