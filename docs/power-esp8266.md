@@ -1,4 +1,4 @@
-## Alimentare il modulo ESP8266
+# Alimentare i moduli ESP8266
 
 Dalle specifiche tecniche dei moduli ESP8266 è evidente che per un funzionamento stabile serve una alimentazione esterna stabilizzata a 3.3V e 500mA.  
 
@@ -12,9 +12,9 @@ Online si trovano diversi esempi di alimentazione realizzata con due batterie st
 
 ## Alimentare le schede di sviluppo
 
-Le schede di sviluppo utilizzate per il corso sono dotate progettate per essere alimentate con una tensione a 5V e sono dotate di un regolatore di tensione per fornire i 3.3V richiesti dal microcontrollore. 
+Le schede di sviluppo utilizzate per il corso sono dotate progettate per essere alimentate con una tensione a 5V e sono dotate di un regolatore di tensione per fornire i 3.3V richiesti dal microcontrollore.
 
-![connect-to-computer](../media/connect-to-computer.png)
+![connect-to-computer](media/connect-to-computer.png)
 
 Per quanto riguarda l'assorbimento di corrente la specifiche tecniche indicano un assorbimento di picco di 500mA che potrebbe essere troppo elevato per la porta USB del vostro portatile. Però in pratica l'assorbimento è solitamente molto più basso e quindi nella maggior parte dei casi la porta USB è in grado di fornire una alimentazione sufficiente.
 
@@ -24,9 +24,5 @@ Dopo aver programmato la scheda è possibile alimentarla in uno dei seguenti mod
 
 1. Dalla porta USB del PC
 2. Utilizzare un powerbanck per smartphone e un cavo USB-Micro-USB
-3. Usando un alimentatore con uscita 5V@500mA (tutti quelli degli smartphone) ![esp-12e-powered-by-wall-wart](../media/esp-12e-powered-by-wall-wart.png)
+3. Usando un alimentatore con uscita 5V@500mA (tutti quelli degli smartphone) ![esp-12e-powered-by-wall-wart](media/esp-12e-powered-by-wall-wart.png)
 4. Utilizzare delle batterie. Alcaline, al litio o ricaricabili. Il pacco batterie deve essere in grado di produrre almeno 5V ![power-esp-12e-with-a-9v-battery](../media/power-esp-12e-with-a-9v-battery.png)
-5. 
-
-
-

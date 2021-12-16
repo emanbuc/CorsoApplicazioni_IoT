@@ -1,26 +1,16 @@
-## Connettere ESP8266
+# Connettere ESP8266
 
 I moduli ESP8266 sono dotati di numerose connessioni che possono essere utilizzate come input o come output. Troviamo più o meno le stessa dotazione delle board Arduino o di altri microcontrollori:
 
-\-     Ingressi ed uscite digitali (GPIO)
-
-\-     I2C
-
-\-     SPI
-
-\-     UART
-
-\-     Ingresso analogico 
+- Ingressi ed uscite digitali (GPIO)
+- I2C
+- SPI
+- UART
+- Ingresso analogico
 
 La caratteristica peculiare di ESP8266 è la presenza del WiFi integrato all’interno del microcontrollore!
 
 ![ESP8266 12e Pinout 6](media/clip_image002-16368004538364.jpg)
-
-# ESP8266 PINS
-
-TODO
-
-# Arduino PINS
 
 ## Digital pins
 
