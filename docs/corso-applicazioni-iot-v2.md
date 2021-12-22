@@ -8,20 +8,21 @@
 
 ## Programma
 
-1. Introduzione IoT, Industrial IoT, Factory 4.0
-2. Architettura di riferimento soluzioni IoT
-3. Casi di studio
-   - Un esempio di progetto Industrial IoT: Health Monitoring System
-     - Dal prodotto al servizio grazie a tecnologia IoT/Industry4.0
+1. La rivoluzione industriale digitale
+2. Introduzione IoT, Industrial IoT, Factory 4.0
+3. Architettura di riferimento soluzioni IoT
+4. Casi di studio
    - Un esempio di trasformazione da prodotto a servizio su larga scala: Sigma Air Utility: Air as a Service [https://us.kaeser.com/services/compressed-air-as-utility-service/](https://us.kaeser.com/services/compressed-air-as-utility-service/)
    - Una nuova lineea di prodotti per creare soluzioni IoT: Self powerd IoT sensors [https://www.enocean.com/en/applications/internet-of-things/](https://www.enocean.com/en/applications/internet-of-things)
    - Industrial IoT in OMA
-4. Iniziamo a costruire qualche cose anche noi: prima di cominciare abbiamo bisogno di 
+   - Health Monitoring System: dal prodotto al servizio grazie a tecnologia IoT/Industry4.0
+5. Iniziamo a costruire qualche cose anche noi: prima di cominciare abbiamo bisogno di 
    1. Creare un account [GitHub](https://github.com/) (potrebbe andare bene qualsiasi altro repository di sorgenti tipo GitLab, Bitbucket o altri, ma per partecipare ai progetti condivisi dobbiamo essere tutti quanti sulla stessa piattaforma)
    2. Creare repository GitHub pubblico per i progetti realizzati durante il corso
    3. Creare un account su una piattaforme IoT cloud. Le opzioni disponibili sono tante e avendo tempo si potrebbe costruire una piattaforma cloud IoT da zero utilizzando software open source come fatto per Health Monitoring System. Adesso però per iniziare velocemente ci conviene creare tutti quanti un account gratuito su [Arduino Cloud](https://store.arduino.cc/pages/iotcloud) sulla stessa piattaforma. Più avanti ne utilizzeremo anche altre per i progetti. 
    4. [Configurare l'ambiente di sviluppo](setup.md) hardware e software
-5. Laboratorio applicazioni IoT
+   5. Qulache idea per cominciare 
+6. Laboratorio applicazioni IoT
    - Hardware
      - [Materiale per allestire il laboratorio IoT del corso](lab-bill-of-materials.md)
      - Panoramica su hardware utilizzato
@@ -38,12 +39,12 @@
        - ArduinoIDE  (consigliato per principianti senza esperienza di sviluppo C/C++)
        - Visual StudioCode + Platformio (consigliato per sviluppatori esperti)
        - Visual Studio + Visual Micro (consigliato per sviluppatori Visual C/C++ )
-6. Alimentare ESP8266 [power-esp8266.md](power-esp8266.md)
-7. Connettere ESP8266 [connecting-esp8266.md](connecting-esp8266.md)
-8. Programmare ESP8266 [programming-esp8266.md](programming-esp8266.md)
-9. NodeMCU [nodemcu.md](nodemcu.md) 
-10. ESP8266 Arduino Core [esp8266-arduinocore.md](esp8266-arduinocore.md)
-11. Piattaforme IoT Cloud
+7. Alimentare ESP8266 [power-esp8266.md](power-esp8266.md)
+8. Connettere ESP8266 [connecting-esp8266.md](connecting-esp8266.md)
+9. Programmare ESP8266 [programming-esp8266.md](programming-esp8266.md)
+10. NodeMCU [nodemcu.md](nodemcu.md) 
+11. ESP8266 Arduino Core [esp8266-arduinocore.md](esp8266-arduinocore.md)
+12. Piattaforme IoT Cloud
     - Blynk [https://blynk.io/](https://blynk.io/)
     - Sinric [https://sinric.pro/](https://sinric.pro/)
     - Arduino Cloud IoT [https://docs.arduino.cc/cloud/iot-cloud](https://docs.arduino.cc/cloud/iot-cloud)
@@ -52,28 +53,28 @@
     - [https://apps.azureiotcentral.com/](https://apps.azureiotcentral.com/)
     - [https://docs.microsoft.com/en-us/azure/iot-central/](https://docs.microsoft.com/en-us/azure/iot-central/)
     - [https://docs.microsoft.com/en-us/azure/iot-fundamentals/](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
-12. Lettura ingressi digitali
+13. Lettura ingressi digitali
     -  [ESP8266-blink-serial.md](ESP8266-blink-serial.md) 
     - Stato interruttore (switch)
     - Stato pulsante (button)
     - Sensore presenza PIR (PIR sensor)
-13. Interfacciamento sensori digitali con protocollo di comunicazione specifico
+14. Interfacciamento sensori digitali con protocollo di comunicazione specifico
     - sensore umidità e temperatura DHT11
     - Misuratore di distanza ad ultrasuoni HC-SR04
-14. Lettura ingressi analogici
+15. Lettura ingressi analogici
     - Sensore intensità luminosa LDR
     - Sensore temperatura LM35
-15. Controllo di uscite digitali
+16. Controllo di uscite digitali
     - Accendere un led (blink)
     - controllare motori lampade ed altri dispositivi con dei rele
-16. Leggere e scrivere dati 
+17. Leggere e scrivere dati 
     - [Esp8266: Read and Write from/to EEPROM (Flash Memory) (hirnschall.net)](https://blog.hirnschall.net/esp8266-eeprom/)
     - [ESP8266 Internal EEPROM Programming | Circuits4you.com](https://circuits4you.com/2016/12/16/esp8266-internal-eeprom-arduino/)
     - [Arduino - EEPROM](https://www.arduino.cc/en/Reference/EEPROM)
     - [Libraries — ESP8266 Arduino Core 3.0.2-29-g0761f6f6 documentation (arduino-esp8266.readthedocs.io)](https://arduino-esp8266.readthedocs.io/en/latest/libraries.html#eeprom)
     - [jwrw/ESP_EEPROM: An improved EEPROM emulation Arduino library for ESP8266 (github.com)](https://github.com/jwrw/ESP_EEPROM) 
     - [SD Card Module With ESP8266 : 6 Steps - Instructables](https://www.instructables.com/SD-Card-Module-With-ESP8266/)
-17. Connettività Wifi ed Internet
+18. Connettività Wifi ed Internet
     - connessione ad una rete Wifi
     - Connessione ad Internet e client HTTP/HTTPS
     - Server HTTP
