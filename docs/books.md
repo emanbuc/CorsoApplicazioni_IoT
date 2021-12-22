@@ -16,4 +16,3 @@ Un personaggio ... secondo molti un genio. Di sicuro una perosna capace di inven
 - Almost complete list of his books: https://www.gettextbooks.com/author/Forrest_M_Mims 
 
 ## Microcontrollers and Internet of Things
- 
