@@ -47,13 +47,15 @@
     - Blynk [https://blynk.io/](https://blynk.io/)
     - Sinric [https://sinric.pro/](https://sinric.pro/)
     - Arduino Cloud IoT [https://docs.arduino.cc/cloud/iot-cloud](https://docs.arduino.cc/cloud/iot-cloud)
-    - https://docs.arduino.cc/cloud/iot-cloud/tutorials/esp-32-cloud 
+      - <https://docs.arduino.cc/cloud/iot-cloud/tutorials/esp-32-cloud> 
     - Azure IoT Hub - IoT Central
     - [https://apps.azureiotcentral.com/](https://apps.azureiotcentral.com/)
     - [https://docs.microsoft.com/en-us/azure/iot-central/](https://docs.microsoft.com/en-us/azure/iot-central/)
     - [https://docs.microsoft.com/en-us/azure/iot-fundamentals/](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
 12. Lettura ingressi digitali
-    -  [ESP8266-blink-serial.md](ESP8266-blink-serial.md) 
+    - [ESP8266-blink-serial.md](ESP8266-blink-serial.md)
+       - Esempio [Blink Without Delay](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink-without-delay)
+       - Esempio [ESP Cloud Test](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Arduino-cloud-ESP-Test)
     - Stato interruttore (switch)
     - Stato pulsante (button)
     - Sensore presenza PIR (PIR sensor)
