@@ -45,12 +45,12 @@
        - Visual StudioCode + Platformio (consigliato per sviluppatori esperti)
        - Visual Studio + Visual Micro (consigliato per sviluppatori Visual C/C++ )
 2. Sviluppare Applicazioni IoT con ESP8266
-   1. Alimentare ESP8266 [power-esp8266.md](power-esp8266.md)
-   2. Connettere ESP8266 [connecting-esp8266.md](connecting-esp8266.md) al mondo esterno
-   3. Programmare ESP8266 [programming-esp8266.md](programming-esp8266.md)
-       - Test ambiente di sviluppo: [ESP8266 Blink]([/Users/emanuelebuchicchio/CorsoApplicazioni_IoT/ESP8266/Blink](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink))
-       - Utlizzo porta seriale e led a bordo della scheda [ESP8266-blink-serial.md](ESP8266-blink-serial.md)
-       - Esempio [Blink Without Delay](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink-without-delay)
+   - Alimentare ESP8266 [power-esp8266.md](power-esp8266.md)
+   - Connettere ESP8266 [connecting-esp8266.md](connecting-esp8266.md) al mondo esterno
+   - Programmare ESP8266 [programming-esp8266.md](programming-esp8266.md)
+   - Test ambiente di sviluppo: [ESP8266 Blink]([/Users/emanuelebuchicchio/CorsoApplicazioni_IoT/ESP8266/Blink](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink))
+   - Utlizzo porta seriale e led a bordo della scheda [ESP8266-blink-serial.md](ESP8266-blink-serial.md)
+   - Esempio [Blink Without Delay](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink-without-delay)
 3. Connettere ESP8266 a cloud [Arduino IoT Cloud](esp8266-arduino-cloud.md)
 
 ### Parte 3
