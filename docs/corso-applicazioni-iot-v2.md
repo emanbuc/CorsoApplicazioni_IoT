@@ -51,13 +51,7 @@
        - Test ambiente di sviluppo: [ESP8266 Blink]([/Users/emanuelebuchicchio/CorsoApplicazioni_IoT/ESP8266/Blink](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink))
        - Utlizzo porta seriale e led a bordo della scheda [ESP8266-blink-serial.md](ESP8266-blink-serial.md)
        - Esempio [Blink Without Delay](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink-without-delay)
-3. Connettere la scheda NodeModule MCU al cloud
-   - Arduino Cloud IoT [https://docs.arduino.cc/cloud/iot-cloud](https://docs.arduino.cc/cloud/iot-cloud)
-   - creare un nuovo progetto
-   - setup connessione
-   - creare un dashboard
-   - caricare progrmma sulla scheda di sviluppo
-   - Esempio [Arduino ESP Cloud Test](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Arduino-cloud-ESP-Test)
+3. Connettere ESP8266 a cloud [Arduino IoT Cloud](esp8266-arduino-cloud.md)
 
 ### Parte 3
 

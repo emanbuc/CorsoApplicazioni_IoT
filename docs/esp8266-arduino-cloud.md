@@ -3,10 +3,30 @@
 - Ambiente di sviluppo Web integrato con piattaforma cloud
   - Serve "Agent installato" per gestire connessione con scheda di sviluppo
 - Vari piani di servizio incluso uno gratuito
-- Supporta caricamento programmi Over The Air (OTA), con dispositivo connesso ad internet, am senza dover collegare al PC di sviluppo a partire da abbonamento "entry" da 3€/mese. (solo su alcune board Arduino)
-  - GitHub Student Developer Pack => 6 mesi gratis abbonamento "maker"
-  - Supporto per ESP8266 / ESP32 (anche nel piano gratuito)
-  
+- 6 mesi gratis abbonamento "maker" inclusi in GitHub Student Developer Pack (se siete studenti)
+- Supporto per ESP8266 / ESP32 (anche nel piano gratuito)
+- Supporta caricamento programmi Over The Air (OTA), con dispositivo connesso ad internet, ma senza dover collegare al PC di sviluppo a partire da abbonamento "entry" da 3€/mese. (solo su alcune board Arduino. Funzionalità non disponibile per ESP8266)
+
+  Arduino Cloud IoT [https://docs.arduino.cc/cloud/iot-cloud](https://docs.arduino.cc/cloud/iot-cloud)
+
+## Creazione di un nuovo progetto
+
+CONTRIBUISCI AL PROGETTO SCRIVENDO IL CONTENUTO DI QUESTA SEZIONE
+
+## Creazione di una Dashboard
+
+CONTRIBUISCI AL PROGETTO SCRIVENDO IL CONTENUTO DI QUESTA SEZIONE
+
+## Primo progetto completo
+
+1. creare un nuovo progetto
+2. setup connessione
+3. creare un dashboard
+4. caricare progrmma sulla scheda di sviluppo
+5. Esempio [Arduino ESP Cloud Test](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Arduino-cloud-ESP-Test)
+
+## Un po di link
+
 https://support.arduino.cc/hc/en-us/articles/360014869820-How-to-install-the-Arduino-Create-Agent
 
 https://github.com/arduino-libraries/ArduinoIoTCloud
