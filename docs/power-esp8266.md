@@ -25,4 +25,4 @@ Dopo aver programmato la scheda è possibile alimentarla in uno dei seguenti mod
 1. Dalla porta USB del PC
 2. Utilizzare un powerbanck per smartphone e un cavo USB-Micro-USB
 3. Usando un alimentatore con uscita 5V@500mA (tutti quelli degli smartphone) ![esp-12e-powered-by-wall-wart](media/esp-12e-powered-by-wall-wart.png)
-4. Utilizzare delle batterie. Alcaline, al litio o ricaricabili. Il pacco batterie deve essere in grado di produrre almeno 5V ![power-esp-12e-with-a-9v-battery](../media/power-esp-12e-with-a-9v-battery.png)
+4. Utilizzare delle batterie. Alcaline, al litio o ricaricabili. Il pacco batterie deve essere in grado di produrre almeno 5V ![power-esp-12e-with-a-9v-battery](media/power-esp-12e-with-a-9v-battery.png)
