@@ -7,7 +7,9 @@
 - Supporto per ESP8266 / ESP32 (anche nel piano gratuito)
 - Supporta caricamento programmi Over The Air (OTA), con dispositivo connesso ad internet, ma senza dover collegare al PC di sviluppo a partire da abbonamento "entry" da 3€/mese. (solo su alcune board Arduino. Funzionalità non disponibile per ESP8266)
 
-  Arduino Cloud IoT [https://docs.arduino.cc/cloud/iot-cloud](https://docs.arduino.cc/cloud/iot-cloud)
+  Arduino Cloud IoT 
+  - [https://docs.arduino.cc/cloud/iot-cloud](https://docs.arduino.cc/cloud/iot-cloud)
+  - [https://create.arduino.cc/iot/things](https://create.arduino.cc/iot/things)
 
 ## Creazione di un nuovo progetto
 
