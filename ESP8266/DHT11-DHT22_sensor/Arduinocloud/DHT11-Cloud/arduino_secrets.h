@@ -1,0 +1,3 @@
+#define SECRET_SSID "stanze-nuove"
+#define SECRET_PASS "aWrC512RTgs"
+#define SECRET_DEVICE_KEY "S1WKERKH7491FDBI5YAD"

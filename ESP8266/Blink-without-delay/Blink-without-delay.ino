@@ -13,6 +13,7 @@
 int ledState = LOW;
 
 unsigned long previousMillis = 0;
+unsigned long currentMillis = 0;
 const long interval = 1000;
 const int LED_PIN=2; //LED_BUILTIN ==2
 
@@ -23,7 +24,7 @@ void setup() {
 }
 
 void loop() {
-  unsigned long currentMillis = millis();
+  currentMillis = millis();
   if (currentMillis - previousMillis >= interval) {
     Serial.print(interval);
     Serial.println(" ms elapsed. Must change led state.");
