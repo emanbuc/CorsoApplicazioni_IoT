@@ -8,7 +8,7 @@
 
 ## Programma del corso (aggiornato al 23 dicembre 2021)
 
-### Parte 1
+### Parte 1 - IoT, Industrial IoT, Industry 4.0
 
 1. La rivoluzione industriale digitale
 2. Introduzione IoT, Industrial IoT, Factory 4.0
@@ -24,7 +24,7 @@
    4. [Configurare l'ambiente di sviluppo](setup.md) hardware e software
       - Test ambiente di sviluppo: [ESP8266 Blink]([/Users/emanuelebuchicchio/CorsoApplicazioni_IoT/ESP8266/Blink](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink))
 
-### Parte 2
+### Parte 2 - Dalla Teoria Alla Pratica
 
 1. Laboratorio applicazioni IoT
    - Hardware
@@ -39,30 +39,45 @@
        - Sensori: qui la cosa inizia a diventare interessante! Esistono sensori in grado di  rilevare o misurare ogni tipo di evento o fenomeno fisico.  L'unico limite è la capacità di inventare soluzioni innovative.
          - Nel poco tempo disponibile riusciremo ad utilizzare solo alcuni sensori. Moltissimo hardware è però ormai disponibile a pochi euro e può essere acquistato online.  Se non sapete da dove cominciare cercate "Arduino sensor Kit". "IoT sensors kit" sui motori di ricerca. Oppure date un occhiata nella sezione [Libri consigliati](books.md).
    - Software
-     - Progetto [ESP8266 Arduino Core](esp8266-arduinocore.md)
-     - Ambiente di sviluppo
-       - ArduinoIDE  (consigliato per principianti senza esperienza di sviluppo C/C++)
-       - Visual StudioCode + Platformio (consigliato per sviluppatori esperti)
-       - Visual Studio + Visual Micro (consigliato per sviluppatori Visual C/C++ )
+     - [ESP8266 Arduino Core](esp8266-arduinocore.md)
+     - Ambiente di sviluppo (vedi [Configurare l'ambiente di sviluppo](setup.md) )
 2. Sviluppare Applicazioni IoT con ESP8266
    - Alimentare ESP8266 [power-esp8266.md](power-esp8266.md)
    - Connettere ESP8266 [connecting-esp8266.md](connecting-esp8266.md) al mondo esterno
    - Programmare ESP8266 [programming-esp8266.md](programming-esp8266.md)
-   - Test ambiente di sviluppo: [ESP8266 Blink]([/Users/emanuelebuchicchio/CorsoApplicazioni_IoT/ESP8266/Blink](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink))
+   - *Progetto01*: [ESP8266 Blink]([/Users/emanuelebuchicchio/CorsoApplicazioni_IoT/ESP8266/Blink](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink))
    - Utlizzo porta seriale e led a bordo della scheda [ESP8266-blink-serial.md](ESP8266-blink-serial.md)
-   - Esempio [Blink Without Delay](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink-without-delay)
-3. Connettere ESP8266 a cloud [Arduino IoT Cloud](esp8266-arduino-cloud.md)
+   - *Progetto02*: [Blink Without Delay](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink-without-delay)
+3. Connettere ESP8266 ad una piattaforma cloud.
+   - [Arduino IoT Cloud](esp8266-arduino-cloud.md)
+   - *Progetto03*: [ESP8266/Arduino-cloud-ESP-Test](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Arduino-cloud-ESP-Test)
 
-### Parte 3
+### Parte 3 - Realizziamo una applicazione completa: sistema di monitoraggio e controllo ambientale
 
-1. Piattaforme IoT Cloud
+1. Piattaforme IoT Cloud "chiavi in mano"
     - Blynk [https://blynk.io/](https://blynk.io/)
     - Sinric [https://sinric.pro/](https://sinric.pro/)
+    - [Arduino IoT Cloud](esp8266-arduino-cloud.md)
     - Azure IoT Hub - IoT Central
-    - [https://apps.azureiotcentral.com/](https://apps.azureiotcentral.com/)
-    - [https://docs.microsoft.com/en-us/azure/iot-central/](https://docs.microsoft.com/en-us/azure/iot-central/)
-    - [https://docs.microsoft.com/en-us/azure/iot-fundamentals/](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
+      - [https://apps.azureiotcentral.com/](https://apps.azureiotcentral.com/)
+      - [https://docs.microsoft.com/en-us/azure/iot-central/](https://docs.microsoft.com/en-us/azure/iot-central/)
+      - [https://docs.microsoft.com/en-us/azure/iot-fundamentals/](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
+  
+2. Monitoraggio temperatura ed umidità con sensore DHT11(DHT22)
+   - Sensore digitale di temperatura ed umidità DHT11/DHT22
+   - *Progetto04*: [DHTtester](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/DHT11-DHT22_sensor/DHTtester)
+   - *Progetto05*: [Arduinocloud/DHT11-Cloud](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/DHT11-DHT22_sensor/Arduinocloud/DHT11-Cloud)
+   - *Progetto06*: [Sinric/DHT11-Sinric](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/DHT11-DHT22_sensor/Sinric/DHT11-Sinric)
 
+3. Controllo remoto di dispositivi esterni tramite GPIO
+   - uscite digitali GPIO
+   - *Progetto07*: controllo remoto di un dispositivo elettronico di bassa potenza
+
+### Parte 4 - Utilizzo di sensori, attuatori e periferiche
+
+1. Programmazione sistemi embedded
+   - Sistemi di eleborazione dati real-time
+   - Interrupt
 2. Lettura ingressi digitali
     - Stato interruttore (switch)
     - Stato pulsante (button)
@@ -75,7 +90,8 @@
     - Sensore temperatura LM35
 5. Controllo di uscite digitali
     - Accendere un led (blink)
-    - controllare motori lampade ed altri dispositivi con dei rele
+    - Controllare motori lampade ed altri dispositivi con dei rele
+    - Uscite digitali in modelaità PWM
 6. Leggere e scrivere dati
     - [Esp8266: Read and Write from/to EEPROM (Flash Memory) (hirnschall.net)](https://blog.hirnschall.net/esp8266-eeprom/)
     - [ESP8266 Internal EEPROM Programming | Circuits4you.com](https://circuits4you.com/2016/12/16/esp8266-internal-eeprom-arduino/)
