@@ -13,11 +13,22 @@
 
 ## Creazione di un nuovo progetto
 
-CONTRIBUISCI AL PROGETTO SCRIVENDO IL CONTENUTO DI QUESTA SEZIONE
+CONTRIBUISCI  SCRIVENDO IL CONTENUTO DI QUESTA SEZIONE
 
 ## Creazione di una Dashboard
 
-CONTRIBUISCI AL PROGETTO SCRIVENDO IL CONTENUTO DI QUESTA SEZIONE
+CONTRIBUISCI SCRIVENDO IL CONTENUTO DI QUESTA SEZIONE
+
+## Connessione al cloud
+
+La procedura guidata permette di creare velocemente un progetto già pronto per la connessione ad arduino IoT cloud. Utilizzando il codice del progetto di esempio è invece necessario inserire i seguenti elementi:
+
+- Things UD
+- Device ID
+- Device ID
+- Wifi name
+- WiFi password
+  
 
 ## Primo progetto completo
 
