@@ -4,8 +4,8 @@
 #include <Arduino_ConnectionHandler.h>
 
 
-const char THING_ID[]           = "2f811c6a-7071-4bdf-a2e5-498a66d8f45c";
-const char DEVICE_LOGIN_NAME[]  = "63d951cf-132f-4a24-9067-ea8065c58532";
+const char THING_ID[]           = "1d1efcd7-1f63-415a-88c5-7e345c9ec541";
+const char DEVICE_LOGIN_NAME[]  = "1b07049a-098d-4929-bcbc-c92a4c1cd105";
 
 const char SSID[]               = SECRET_SSID;    // Network SSID (name)
 const char PASS[]               = SECRET_PASS;    // Network password (use for WPA, or use as key for WEP)
@@ -28,3 +28,4 @@ void initProperties(){
 }
 
 WiFiConnectionHandler ArduinoIoTPreferredConnection(SSID, PASS);
+
