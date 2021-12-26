@@ -1,8 +1,10 @@
-# Corso Applicazioni IoT 2021
+# Corso Applicazioni IoT
 
-Questo repository reccolgie il materiale utilizzato per il modulo didattico "Applicazioni IoT".
+Questo repository raccoglie il materiale utilizzato per il corso "Applicazioni IoT". Le slide e le registrazioni delle lezioni sono disponibili nella cartella condivisa con i partecipanti alle varie edizioni del corso.
 
-Il tema dello sviluppo di applicazioni IoT è molto vasto. Nel corso delle lezioni per motivi di tempo non è possibile approfondire gli argomenti trattati. In queste pagine ho raccolto appunti, esempi e riferimenti a risorse esterne utili per seguire il corso, ma anche per uno studio autonomo dei diversi argomenti.
+Il tema dello sviluppo di applicazioni IoT è molto vasto. Durante le lezioni, per motivi di tempo, non è possibile approfondire gli argomenti trattati. In queste pagine ho raccolto appunti, esempi e riferimenti a risorse esterne utili per seguire il corso, ma anche per uno studio autonomo dei diversi argomenti.
+
+***Tutti i progetti del corso sono realizzabili utilizzando software e servizi cloud gratuiti. L'unico investimento necessario è l'acquisto dell'hardware. Con una spesa complessiva di circa 10-20€ è possibile realizzare applicazioni IoT complete e tutti i gli esempi del corso***.  Consulta [L'elenco completo](docs\lab-bill-of-materials.md)  del materiale necessario per allestire il laboratorio del corso per maggiori dettagli.
 
 ## Setup
 
@@ -16,9 +18,9 @@ Sito web con materiale del corso [Applicazioni IoT](https://emanbuc.github.io/Co
 
 ## Contenuto del repository
 
-In questo repository sono presenti tre caertelle:
+In questo repository sono presenti tre cartelle:
 
-- [docs](docs) contiene i sorgenti in MarkDown del sito web/e-book del corso pubblicato su [https://emanbuc.github.io/CorsoApplicazioni_IoT/](https://emanbuc.github.io/CorsoApplicazioni_IoT/) utilizzanto GitHub Pages
+- [docs](docs) contiene i sorgenti in MarkDown del sito web/e-book del corso pubblicato su [https://emanbuc.github.io/CorsoApplicazioni_IoT/](https://emanbuc.github.io/CorsoApplicazioni_IoT/) utilizzando *GitHub Pages*
 - [ESP9266](ESP8266) il codice sorgente degli esempi e delle esercitazioni da eseguire sulle schede di sviluppo basate su microcontrollore ESP8266
 
 ## Come Contribuire
