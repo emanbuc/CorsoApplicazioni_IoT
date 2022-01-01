@@ -62,14 +62,15 @@
       - [https://apps.azureiotcentral.com/](https://apps.azureiotcentral.com/)
       - [https://docs.microsoft.com/en-us/azure/iot-central/](https://docs.microsoft.com/en-us/azure/iot-central/)
       - [https://docs.microsoft.com/en-us/azure/iot-fundamentals/](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
-  
 2. Monitoraggio temperatura ed umidità con sensore DHT11(DHT22)
    - Sensore digitale di temperatura ed umidità DHT11/DHT22
    - *Progetto04*: [DHTtester](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/DHT11-DHT22_sensor/DHTtester)
    - *Progetto05*: [Arduinocloud/DHT11-Cloud](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/DHT11-DHT22_sensor/Arduinocloud/DHT11-Cloud)
    - *Progetto06*: [Sinric/DHT11-Sinric](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/DHT11-DHT22_sensor/Sinric/DHT11-Sinric)
-
-3. Controllo remoto di dispositivi esterni tramite GPIO
+3. Monitoraggio qualità dell'aria con sensori della serie MQ
+   -  Utilizzo [sensori serie MQ con ESP8266](ESP8266_MQ_gas_sensor.md)
+   - Progetto07:  [ESP8266-MQ](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/ESP8266-MQ)
+4. Controllo remoto di dispositivi esterni tramite GPIO
    - uscite digitali GPIO
    - *Progetto07*: controllo remoto di un dispositivo elettronico di bassa potenza
 
@@ -104,4 +105,3 @@
     - Connessione ad Internet e client HTTP/HTTPS
     - Server HTTP
     - Connessione ad infrastruttura cloud
-  
