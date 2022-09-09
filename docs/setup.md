@@ -50,7 +50,7 @@ CONTRIBUISCI AL PROGETTO SCIVENDO IL CONTENUTO DI QUESTA SEZIONE
 Ora è il momento di verificare il corretto funzionamento dell'ambiente di sviluppo provando ad caricare ed eseguire un semplice programma sulla scheda di sviluppo.
 
 1. Aprire Arduino IDE
-2. Dalla cartella degli esempi per ESP8266 aprire il progetto "[Blink](../ESP8266/Blink/Blink.ino)"
+2. Dalla cartella degli esempi per ESP8266 aprire il progetto "[Blink](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink)"
 3. Connettere la scheda al PC
 4. Selezionare la porta di comunicazione ![image-20211207123849052](media/arduinoIDE-selezionare-porta.png)
 5. Selezionare il tipo di scheda di sviluppo (per le schede fornite durante il corso selezionare Nome MCU 1.0) ![image-20211207124102262](media/arduinoIDE-selezionare-tipo-scheda.png)
