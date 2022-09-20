@@ -1,0 +1,25 @@
+# IoT Parts and Components List
+
+- RFID RC522
+- Micro SD card adapter
+- LD 1117v33C (x10) voltage regulator
+- IR DIODE 5002A (x3)
+- Micro Servo SG90 (x2)
+- IR Receiver TSSP4P38 (x5)
+- Friendly ARM RGB Micro Camera 2A1102057A
+- Temperature probe PT1000 (x4)
+- White Led 3V (x80)
+- Micro button
+- RGB Led HC4512 6005937
+- Standard LED (green, red, yellow) (x20)
+- PIR sensor module with digital output (x5)
+- DHT11 temperature and humidity sensor (x4)
+- MQ gas sensors (x6)
+- HC-SR04 ultrasonic range meter (x10)
+- 8 channel relay board
+- Magnetic Reed switch
+- Ceramic capacitors
+- Resistors
+- LDR
+- Photovoltaic modules
+- DC Motors
