@@ -23,3 +23,11 @@
 - LDR
 - Photovoltaic modules
 - DC Motors
+- Breadboard (x15)
+- Jumper Wire /Dupont connection cables
+- Digital Multimeter
+- Digital Oscilloscope
+- Soldering station
+- USB cables
+- Battery sockets
+  
