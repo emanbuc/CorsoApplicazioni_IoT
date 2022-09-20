@@ -11,11 +11,12 @@
 ## Parte 1 - IoT, Industrial IoT, Industry 4.0
 
 1. La rivoluzione industriale digitale, cyber-physical systems, digital twins, Industry 4.0 ( vedi: *01.01_Digital_Industrial_Revolution.pdf*)
-2. Introduzione IoT, Industrial IoT,  Industrial IoT Platforms,Architettura di riferimento soluzioni IoT (vedi: *01.02_Industrial_IOT.pdf*)
-3. Alcuni esempi
+2. Introduzione IoT,Industrial IoT,  Industrial IoT Platforms,Architettura di riferimento soluzioni IoT (vedi: *01.02_Industrial_IOT.pdf*)
+3. Applicazioni IoT (vedi: *01.03_Applicazioni IoT.pdf*)
+4. Alcuni esempi sul mercato
    - Un esempio di trasformazione da prodotto a servizio su larga scala: Sigma Air Utility: Air as a Service [https://us.kaeser.com/services/compressed-air-as-utility-service/](https://us.kaeser.com/services/compressed-air-as-utility-service/)
    - Una nuova lineea di prodotti per creare soluzioni IoT: Self powerd IoT sensors [https://www.enocean.com/en/applications/internet-of-things/](https://www.enocean.com/en/applications/internet-of-things)
-4. Iniziamo a costruire qualche cose anche noi: prima di cominciare abbiamo bisogno di:
+5. Iniziamo a costruire qualche cose anche noi: prima di cominciare abbiamo bisogno di:
    1. Creare un account [GitHub](https://github.com/) (potrebbe andare bene qualsiasi altro repository di sorgenti tipo GitLab, Bitbucket o altri, ma per partecipare ai progetti condivisi dobbiamo essere tutti quanti sulla stessa piattaforma)
    2. Creare repository GitHub pubblico per i progetti realizzati durante il corso
    3. Creare un account su una piattaforme IoT cloud. Le opzioni disponibili sono tante e avendo tempo si potrebbe costruire una piattaforma cloud IoT da zero utilizzando software open source come fatto per Health Monitoring System. Adesso però per iniziare velocemente ci conviene creare tutti quanti un account gratuito su [Arduino Cloud](https://store.arduino.cc/pages/iotcloud) sulla stessa piattaforma. Più avanti ne utilizzeremo anche altre per i progetti.
