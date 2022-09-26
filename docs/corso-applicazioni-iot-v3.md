@@ -60,11 +60,11 @@ Per prima cosa una veloce panoramica sugli strumenti del nostro laboratorio IoT.
    - [Arduino IoT Cloud](esp8266-arduino-cloud.md)
    - *Progetto03*: [ESP8266/Arduino-cloud-ESP-Test](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Arduino-cloud-ESP-Test)
 
-## Parte 3 - Realizziamo una applicazione completa: sistema di monitoraggio e controllo ambientale
+## Parte 3 - Esempi di applicazione IoT: sistemi di monitoraggio e controllo ambientale
 
 1. Esempi di progetti IoT completi
    1. Health Monitoring System: dal prodotto al servizio grazie a tecnologia IoT/Industry4.0
-   2. Sistema di gestione irrigaizone su vasta scala
+   2. Sistema di gestione irrigazione su vasta scala
 2. Piattaforme IoT Cloud "chiavi in mano"
     - Blynk [https://blynk.io/](https://blynk.io/)
     - Sinric [https://sinric.pro/](https://sinric.pro/)
@@ -79,31 +79,31 @@ Per prima cosa una veloce panoramica sugli strumenti del nostro laboratorio IoT.
    - *Progetto05*: [Arduinocloud/DHT11-Cloud](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/DHT11-DHT22_sensor/Arduinocloud/DHT11-Cloud)
    - *Progetto06*: [Sinric/DHT11-Sinric](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/DHT11-DHT22_sensor/Sinric/DHT11-Sinric)
 4. Monitoraggio qualità dell'aria con sensori della serie MQ
+   - Sensori qualità dell'aria con uscita analogica e digitale serie MQ
    - Utilizzo [sensori serie MQ con ESP8266](ESP8266_MQ_gas_sensor.md)
    - Progetto07:  [ESP8266-MQ](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/ESP8266-MQ)
-5. Controllo remoto di dispositivi esterni tramite GPIO
-   - uscite digitali GPIO
-   - *Progetto07*: controllo remoto di un dispositivo elettronico di bassa potenza
 
 ## Parte 4 - Utilizzo di sensori, attuatori e periferiche
 
 1. Programmazione sistemi embedded
-   - Sistemi di eleborazione dati real-time
+   - Sistemi di elaborazione dati real-time
    - Interrupt
-2. Lettura ingressi digitali
+   - Timer
+2. ESP8266 GPIO. [Quali ingresi ed uscite usare per i progetti](https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/)
+3. Lettura ingressi digitali - https://randomnerdtutorials.com/esp8266-nodemcu-digital-inputs-outputs-arduino/
     - Stato interruttore (switch)
     - Stato pulsante (button)
     - Sensore presenza PIR (PIR sensor)
 3. Interfacciamento sensori digitali con protocollo di comunicazione specifico
     - sensore umidità e temperatura DHT11
     - Misuratore di distanza ad ultrasuoni HC-SR04
-4. Lettura ingressi analogici
+4. Lettura ingressi analogici - https://randomnerdtutorials.com/esp8266-adc-reading-analog-values-with-nodemcu/
     - Sensore intensità luminosa LDR
     - Sensore temperatura LM35
 5. Controllo di uscite digitali
     - Accendere un led (blink)
     - Controllare motori lampade ed altri dispositivi con dei rele
-    - Uscite digitali in modelaità PWM
+    - Uscite digitali in modalità PWM (https://randomnerdtutorials.com/esp8266-pwm-arduino-ide/)
 6. Leggere e scrivere dati
     - [Esp8266: Read and Write from/to EEPROM (Flash Memory) (hirnschall.net)](https://blog.hirnschall.net/esp8266-eeprom/)
     - [ESP8266 Internal EEPROM Programming | Circuits4you.com](https://circuits4you.com/2016/12/16/esp8266-internal-eeprom-arduino/)
@@ -115,4 +115,5 @@ Per prima cosa una veloce panoramica sugli strumenti del nostro laboratorio IoT.
     - connessione ad una rete Wifi
     - Connessione ad Internet e client HTTP/HTTPS
     - Server HTTP
-    - Connessione ad infrastruttura cloud
+    - Utizzo di servizi online: es. Previsioni meteo da OpenWeatherMap ()
+    - Connessione ad infrastruttura cloud (Publish/Subscribe)
