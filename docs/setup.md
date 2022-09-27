@@ -41,7 +41,7 @@ CONTRIBUISCI AL PROGETTO SCIVENDO IL CONTENUTO DI QUESTA SEZIONE
 
 ### Visual Micro
 
-CONTRIBUISCI AL PROGETTO SCIVENDO IL CONTENUTO DI QUESTA SEZIONE
+<https://emanuelebuchicchio.wordpress.com/2016/10/15/visualmicro-the-arduino-plugin-for-visual-studio-and-atmel-studio/>
 
 <https://www.visualmicro.com/page/User-Guide.aspx?doc=Getting-started.html>)
 
