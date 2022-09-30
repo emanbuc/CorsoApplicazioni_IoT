@@ -93,7 +93,7 @@ Per prima cosa una veloce panoramica sugli strumenti del nostro laboratorio IoT.
 3. Lettura ingressi digitali - https://randomnerdtutorials.com/esp8266-nodemcu-digital-inputs-outputs-arduino/
     - Stato interruttore (switch)
     - Stato pulsante (button)
-    - Sensore presenza PIR (PIR sensor)
+    - Sensore presenza PIR ([PIR sensor](ESP8266_PIR.md))
 3. Interfacciamento sensori digitali con protocollo di comunicazione specifico
     - sensore umidità e temperatura DHT11
     - Misuratore di distanza ad ultrasuoni HC-SR04
