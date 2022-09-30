@@ -22,3 +22,9 @@ Measuring distance between 3 meters and 7 meters.
 - If the trigger selection jumper is repeating trigger (H), you see that the second spike from the motion detected signal is recognized and increases the time that the digital output stays HIGH.
 
 - If the trigger selection jumper is single trigger (L), only the initial spike of the motion detected signal is considered and therefore, the time that the HC-SR501 PIR motion sensor stays HIGH is lower compared to the hold jumper selection
+
+## Wiring
+
+![](https://diyi0t.com/wp-content/uploads/2021/03/Wiring-HC-SR501-Infrared-Motion-Sensor-ESP8266-NodeMCU_bb.png)
+
+source: [https://diyi0t.com/hc-sr501-pir-motion-sensor-arduino-esp8266-esp32/](https://diyi0t.com/hc-sr501-pir-motion-sensor-arduino-esp8266-esp32/)
