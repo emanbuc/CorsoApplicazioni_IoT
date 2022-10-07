@@ -99,11 +99,11 @@ Per prima cosa una veloce panoramica sugli strumenti del nostro laboratorio IoT.
     - Misuratore di distanza ad ultrasuoni HC-SR04
 4. Lettura ingressi analogici - https://randomnerdtutorials.com/esp8266-adc-reading-analog-values-with-nodemcu/
     - Sensore intensità luminosa LDR
-    - Sensore temperatura LM35
+    - Sensore temperatura [LM35](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/ESP8266-LM35)
 5. Controllo di uscite digitali
     - Accendere un led (blink)
     - Controllare motori lampade ed altri dispositivi con dei rele
-    - Uscite digitali in modalità PWM (https://randomnerdtutorials.com/esp8266-pwm-arduino-ide/)
+    - Uscite digitali in modalità [PWM] (https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/PWM)  (vedi anche;  https://randomnerdtutorials.com/esp8266-pwm-arduino-ide/)
 6. Leggere e scrivere dati
     - [Esp8266: Read and Write from/to EEPROM (Flash Memory) (hirnschall.net)](https://blog.hirnschall.net/esp8266-eeprom/)
     - [ESP8266 Internal EEPROM Programming | Circuits4you.com](https://circuits4you.com/2016/12/16/esp8266-internal-eeprom-arduino/)
