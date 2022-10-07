@@ -9,11 +9,11 @@
 #include <ESP8266HTTPUpdateServer.h>
 
 #ifndef STASSID
-#define STASSID "your-ssid"
-#define STAPSK  "your-password"
+#define STASSID "ZEFIRO2"
+#define STAPSK  "1qazxsw23edcv"
 #endif
 
-const char* host = "esp8266-webupdate";
+const char* host = "esp8266-emanuele";
 const char* ssid = STASSID;
 const char* password = STAPSK;
 
@@ -39,7 +39,7 @@ void setup(void) {
   httpServer.begin();
 
   MDNS.addService("http", "tcp", 80);
-  Serial.printf("HTTPUpdateServer ready! Open http://%s.local/update in your browser\n", host);
+  Serial.printf("HTTPUpdateServer ready EMANUELE! Open http://%s.local/update in your browser\n", host);
 }
 
 void loop(void) {

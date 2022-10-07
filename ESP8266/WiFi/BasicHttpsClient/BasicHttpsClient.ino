@@ -34,7 +34,7 @@ void setup() {
   }
 
   WiFi.mode(WIFI_STA);
-  WiFiMulti.addAP("SSID", "PASSWORD");
+  WiFiMulti.addAP("ZEFIRO2", "1qazxsw23edcv");
 }
 
 void loop() {
