@@ -1,4 +1,4 @@
-float vref = 3.3;
+float vref = 3.0;
 float resolution = vref/1023;
 
 void setup() {
