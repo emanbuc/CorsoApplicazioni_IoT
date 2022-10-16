@@ -32,11 +32,13 @@ Esempi di circuito realizzato su breadboard:
 
 ## Progetti di Bread Board
 
-Uno strumento utile per progettare e documentare i prototipi realizzati su breadboard è [Fritzing](http://fritzing.org/home/)
+Uno strumento utile per progettare e documentare i prototipi realizzati su breadboard è [Fritzing](http://fritzing.org/home/). Il progetto è rimasto open source, ma recentemente per scaricare l'applicazione già compilata e pronta per l'installazione è necessario pagare un contributo di 8$. 
 
 Si tratta di uno strumento di progettazione CAD per circuiti elettronici specializzato per i progetti realizzati su breadboard.
 
 ![](http://www.vitobarone.it/elettrotecnica/breadboard/fritzing.gif)
 
 ![](https://fritzing.org/assets/uploads/learning/building_circuit/building_circuit_5_jpg_versions/big_building_circuit_5-f997dc8ecb28eac8d6c7468b531526eaab6b42e6be88eac100d0630da2817bae.jpg)
+
+Un altro strumento molto utile è [Circuito](https://www.circuito.io/app?components=513,360216). Si tratta di una applicazione online che aiuta a realizzare i propri progetti su breadboard. *Ricca di funzionalità e gratuita*.
 
