@@ -41,4 +41,5 @@ Si tratta di uno strumento di progettazione CAD per circuiti elettronici special
 ![](https://fritzing.org/assets/uploads/learning/building_circuit/building_circuit_5_jpg_versions/big_building_circuit_5-f997dc8ecb28eac8d6c7468b531526eaab6b42e6be88eac100d0630da2817bae.jpg)
 
 Un altro strumento molto utile è [Circuito](https://www.circuito.io/app?components=513,360216). Si tratta di una applicazione online che aiuta a realizzare i propri progetti su breadboard. *Ricca di funzionalità e gratuita*.
+![](media/web_app_circuito.png)
 
