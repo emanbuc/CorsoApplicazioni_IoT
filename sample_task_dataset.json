@@ -1,0 +1,53 @@
+[
+    {
+      "description": "Fare la spesa",
+      "isCompleted": false,
+      "dueDate": "2024-01-31"
+    },
+    {
+      "description": "Scrivere rapporto",
+      "isCompleted": true,
+      "dueDate": "2024-02-15"
+    },
+    {
+      "description": "Allenamento in palestra",
+      "isCompleted": false,
+      "dueDate": "2024-02-10"
+    },
+    {
+      "description": "Pianificare vacanza",
+      "isCompleted": false,
+      "dueDate": "2024-03-01"
+    },
+    {
+      "description": "Studiare per l'esame",
+      "isCompleted": false,
+      "dueDate": "2024-02-28"
+    },
+    {
+      "description": "Preparare la presentazione",
+      "isCompleted": true,
+      "dueDate": "2024-02-05"
+    },
+    {
+      "description": "Risolvere i bug del software",
+      "isCompleted": false,
+      "dueDate": "2024-03-10"
+    },
+    {
+      "description": "Leggere un libro",
+      "isCompleted": false,
+      "dueDate": "2024-02-20"
+    },
+    {
+      "description": "Fare jogging",
+      "isCompleted": true,
+      "dueDate": "2024-01-25"
+    },
+    {
+      "description": "Imparare una nuova tecnologia",
+      "isCompleted": false,
+      "dueDate": "2024-03-15"
+    }
+  ]
+  
