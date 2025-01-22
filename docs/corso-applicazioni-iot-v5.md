@@ -2,7 +2,7 @@
 
 *Programma del corso V.5 (aggiornato al gennaio 2025)*
 
-# PAGINA IN AGGIRONAMENTO
+# PAGINA IN AGGIORNAMENTO
 
 ## Note sulla Versione v. 5 (2025)
 Il corso è cambiato: in questa edizione le ore di lezione sono solo 20. Anche il bilanciamento tra gli argomenti è cambiato: meno ore per sperimentare con microntrollori e sensori, ma una panoramica generale più ampia sulle applicazioni industriali.
@@ -14,6 +14,12 @@ Chi vuole dedicare più tempo ai progetti lo può fare al di fuori delle ore di 
 - Approfondire l'utilizzo di sensori, attuatori e piattaforme di sviluppo.
 - Sviluppare un progetto pratico che integra hardware e software IoT.
 
+## Come si svolge il corso
+Il corso è composto da 10 lezioni che includono alcune sessioni di laboratorio e progetti da realizzare. 
+Il tempo disponiible è limitato. Vi inviterò a realizzare autonomamente alcuni progetti, durante o anche dopo il corso. 
+Vi chiedo di condividere i vostir progetti e di contribuire ad arricchire il materiale di questo corso.
+
+
 ## Prerequisiti
 
 - Concetti di base di fisica ed elettronica a livello scolastico (corrente elettrica, tensione, batterie, conduttori, isolanti, ...) non sono necessarie competenze tecniche specialistiche di elettronica ed elettrotecnica per seguire questo corso.
@@ -24,11 +30,12 @@ Chi vuole dedicare più tempo ai progetti lo può fare al di fuori delle ore di 
 
 1. La rivoluzione industriale digitale, cyber-physical systems, digital twins, Industry 4.0 ( vedi: *01.01_Digital_Industrial_Revolution.pdf*)
 2. Introduzione IoT,Industrial IoT,  Industrial IoT Platforms,Architettura di riferimento soluzioni IoT (vedi: *01.02_Industrial_IOT.pdf*)
-   - [Piattaforme IoT] industriali (industrial_IoT_platform.md) 
+   - [Piattaforme IoT industriali](industrial_IoT_platform.md) 
 4. Applicazioni IoT (vedi: *01.03_Applicazioni IoT.pdf*)
 5. Alcuni esempi sul mercato
    - Un esempio di trasformazione da prodotto a servizio su larga scala: Sigma Air Utility: Air as a Service [https://us.kaeser.com/services/compressed-air-as-utility-service/](https://us.kaeser.com/services/compressed-air-as-utility-service/)
    - Una nuova lineea di prodotti per creare soluzioni IoT: Self powerd IoT sensors [https://www.enocean.com/en/applications/internet-of-things/](https://www.enocean.com/en/applications/internet-of-things)
+   - [Raccolta di progetti IoT](esempi_applicazioni_IoT.md) raccontati da chi li ha realizzati.
 6. Iniziamo a costruire qualche cose anche noi: prima di cominciare abbiamo bisogno di:
    1. Creare un account [GitHub](https://github.com/) (potrebbe andare bene qualsiasi altro repository di sorgenti tipo GitLab, Bitbucket o altri, ma per partecipare ai progetti condivisi dobbiamo essere tutti quanti sulla stessa piattaforma)
    2. Creare repository GitHub pubblico per i progetti realizzati durante il corso
