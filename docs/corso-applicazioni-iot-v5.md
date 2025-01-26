@@ -43,6 +43,7 @@ Vi chiedo di condividere i vostir progetti e di contribuire ad arricchire il mat
    4. Configurare l'ambiente di sviluppo che utilizzero durante il corso:  
       1. Segure passo-passo la procedura di [installazione e configurazione dell'ambiente  dell'ambiente di sviluppo](setup.md).
       2. Test ambiente di sviluppo: [ESP8266 Blink](https://github.com/emanbuc/CorsoApplicazioni_IoT/tree/main/ESP8266/Blink). Se tutto funziona il risultato dovrebbe essere come [questo](https://youtu.be/9f9czCYL8xw).
+  3. Configurare e testareambiente Arduino Cloud. Vedi esercitazione [ESP8266 DHT11 Arduino Cloud](ESP8266-DHT11_arduino_cloud.md)
 
 ## Parte 2 - Dalla Teoria Alla Pratica
 
